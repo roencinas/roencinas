@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @roencinas
+- 👀 I’m interested in History, Music and Nature
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on OSS
